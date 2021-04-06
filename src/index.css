@@ -1,1 +1,31 @@
 /* TODO Add site wide styles */
+
+/* html{
+    background-image: url("./slide_one.jpg");
+    background-size: cover;
+} */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.industries{
+    background-image: url('./backgroundImages/slide_one.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    
+}
+
+.services{
+    background-image: url('./backgroundImages/slide_two.jpg');
+    min-height: 100vh;
+    background-size: cover;
+    
+}
+.about-us{
+    background-image: url('./backgroundImages/slide_three.jpg');
+    min-height: 100vh;
+    background-size: cover;
+}

@@ -1,0 +1,63 @@
+/* .image{
+    background-image: url("./slide_one.jpg");
+    background-size: cover;
+    height:100vh;
+    width:100vh;
+} */
+.container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.headline{
+    width: 38.25rem;
+    height: 17rem;
+    margin-left: 8rem;
+    margin-top: 10.5rem;
+    margin-bottom:1rem;
+    font-family: HelveticaNeue;
+    font-size: 5.25rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: -2.2px;
+    color: white;
+    height: 100%;
+  }
+
+  .subhead_container{
+    width: 38.25rem;
+    height: 17rem;
+    margin-right: 8rem;
+    margin-top: 10.5rem;
+  }
+
+  .subhead{
+    width: 22.5rem;
+    height: 14rem;
+    font-family: HelveticaNeue;
+    font-size: 0.875rem;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.86;
+    letter-spacing: normal;
+    color: white;
+    margin-left: 10.68rem;
+    margin-top: 1.4rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .callToAction{
+    bottom:0;
+    width: 73.75rem;
+    height: 11.188rem;
+    margin: auto;
+    padding: 4.625rem 8.5rem 4.563rem 4.813rem;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+  }
